@@ -1,6 +1,16 @@
 
+*{
+	margin:0;
+	padding:0;
+}
 
-.imagen.text-center {
-    width: 54%;
-    margin: 0 auto;
+
+.imagen-central {
+    width: 55% !important;
+    margin: 0 auto !important;
+}
+
+.row.1{
+	margin-left: -15px !important;
+	margin-right: -15px !important;
 }
